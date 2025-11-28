@@ -205,3 +205,13 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+
+QWEN/model_1_0/stock_mails_json
+QWEN/model_1_0/stocks_pdfs
+QWEN/model_1_0/mails_json
+QWEN/model_1_0/pdfs
+QWEN/model_1_0/testjson1.json
+
+mistral_docker
+mistral-medical-email-subject

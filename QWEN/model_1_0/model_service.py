@@ -7,14 +7,15 @@ from logging_service import log_decision
 import json
 import os
 
-REVIEW_LOWER = float(os.getenv("REVIEW_LOWER", "0.60"))  # En dessous = NOT IP
-THRESHOLD_IP = float(os.getenv("THRESHOLD_IP", "0.73"))  # Au dessus = IP
+REVIEW_LOWER = float(os.getenv("REVIEW_LOWER", "0.60")) 
+THRESHOLD_IP = float(os.getenv("THRESHOLD_IP", "0.73"))  
 
 app = FastAPI(
     title="IP Email Classifier",
     description="Classification offline emails PI",
     version="1.1.0",
 )
+
 
 class Email(BaseModel):
     email_id: int
@@ -36,7 +37,8 @@ async def classify(email: Email):
     prob = is_ip(text)
 
     if prob < REVIEW_LOWER:
-        log_decision(email.email_id, email.subject, "not_ip", prob, labels=["not_ip"])
+        log_decision(email.email_id, email.subject,
+                     "not_ip", prob, labels=["not_ip"])
         return {
             "labels": ["not_ip"],
             "filter": "not_ip",
@@ -44,7 +46,8 @@ async def classify(email: Email):
         }
 
     if REVIEW_LOWER <= prob < THRESHOLD_IP:
-        log_decision(email.email_id, email.subject, "review", prob, labels=["review_needed"])
+        log_decision(email.email_id, email.subject, "review",
+                     prob, labels=["review_needed"])
         return {
             "labels": ["review_needed"],
             "filter": "review",
@@ -87,10 +90,10 @@ async def batch():
                 with open(path, "r", encoding="latin-1") as f:
                     content = f.read().strip()
                     if not content:
-                        print(f"⚠️ Fichier vide ignoré : {file}")
+                        print(f"Fichier vide ignoré : {file}")
                         continue
                     email = json.loads(content)
-                print(f"ℹ️ Encodage corrigé pour : {file}")
+                print(f"Encodage corrigé pour : {file}")
             except Exception:
                 print(f"JSON invalide ignoré (encodage) : {file}")
                 continue
@@ -103,7 +106,7 @@ async def batch():
         body = email.get("body") or email.get("email_body") or ""
 
         if not email_id:
-            print(f"⚠️ Ignoré (email_id manquant) : {file}")
+            print(f"Ignoré (email_id manquant) : {file}")
             continue
 
         att_text = extract_attachments_text(email_id)
@@ -125,7 +128,8 @@ async def batch():
                 "labels": ["review_needed"],
                 "confidence_ip": round(prob, 2)
             }
-            log_decision(email_id, subject, "review", prob, labels=["review_needed"])
+            log_decision(email_id, subject, "review",
+                         prob, labels=["review_needed"])
 
         else:
             labels = classify_email(subject, body)

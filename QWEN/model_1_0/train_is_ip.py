@@ -26,7 +26,7 @@ model = CamembertForSequenceClassification.from_pretrained(
 class EmailDataset(Dataset):
     def __init__(self, data):
         self.data = data
-    
+
     def __len__(self):
         return len(self.data)
 
@@ -59,6 +59,7 @@ val_dl = DataLoader(val_ds, batch_size=BATCH_SIZE)
 
 optim = AdamW(model.parameters(), lr=LR)
 
+
 def accuracy(model, data_loader):
     model.eval()
     correct = 0
@@ -72,6 +73,7 @@ def accuracy(model, data_loader):
             total += y.size(0)
     return correct / total
 
+
 for epoch in range(EPOCHS):
     model.train()
     losses = 0
@@ -84,9 +86,10 @@ for epoch in range(EPOCHS):
         loss.backward()
         optim.step()
         losses += loss.item()
-    
+
     val_acc = accuracy(model, val_dl)
-    print(f"Epoch {epoch+1}/{EPOCHS} - Loss: {losses:.3f} - Val Acc: {val_acc:.3f}")
+    print(
+        f"Epoch {epoch+1}/{EPOCHS} - Loss: {losses:.3f} - Val Acc: {val_acc:.3f}")
 
 model.save_pretrained(SAVE_DIR)
 tokenizer.save_pretrained(SAVE_DIR)
