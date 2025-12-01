@@ -6,15 +6,37 @@ from attachment_extractor import extract_attachments_text
 from logging_service import log_decision
 import json
 import os
+import re
 
-REVIEW_LOWER = float(os.getenv("REVIEW_LOWER", "0.60")) 
-THRESHOLD_IP = float(os.getenv("THRESHOLD_IP", "0.73"))  
+
+REVIEW_LOWER = float(os.getenv("REVIEW_LOWER", "0.60"))
+THRESHOLD_IP = float(os.getenv("THRESHOLD_IP", "0.73"))
 
 app = FastAPI(
     title="IP Email Classifier",
     description="Classification offline emails PI",
     version="1.1.0",
 )
+
+CLIENT_CODE_PATTERN = re.compile(r"\b[A-Z]{2}\.[A-Z]{2,32}\.\d{3}\b")
+
+
+def extract_client_code(text: str) -> str | None:
+    """
+    Extrait un code client du type BT.ZIZILETI.001 depuis le texte.
+    - 2 lettres
+    - un point
+    - 2 à 32 lettres
+    - un point
+    - 3 chiffres
+    """
+    if not text:
+        return None
+
+    # On met en majuscules pour tolérer bt.zizileti.001
+    text = text.upper()
+    m = CLIENT_CODE_PATTERN.search(text)
+    return m.group(0) if m else None
 
 
 class Email(BaseModel):
@@ -36,30 +58,51 @@ async def classify(email: Email):
 
     prob = is_ip(text)
 
+    client_code = extract_client_code(text)
+
     if prob < REVIEW_LOWER:
-        log_decision(email.email_id, email.subject,
-                     "not_ip", prob, labels=["not_ip"])
+        log_decision(
+            email.email_id,
+            email.subject,
+            "not_ip",
+            prob,
+            labels=["not_ip"]
+        )
         return {
             "labels": ["not_ip"],
             "filter": "not_ip",
-            "confidence_ip": round(prob, 2)
+            "confidence_ip": round(prob, 2),
+            "client_code": client_code,
         }
 
     if REVIEW_LOWER <= prob < THRESHOLD_IP:
-        log_decision(email.email_id, email.subject, "review",
-                     prob, labels=["review_needed"])
+        log_decision(
+            email.email_id,
+            email.subject,
+            "review",
+            prob,
+            labels=["review_needed"]
+        )
         return {
             "labels": ["review_needed"],
             "filter": "review",
-            "confidence_ip": round(prob, 2)
+            "confidence_ip": round(prob, 2),
+            "client_code": client_code,
         }
 
     labels = classify_email(email.subject, email.body)
-    log_decision(email.email_id, email.subject, "ip", prob, labels=labels)
+    log_decision(
+        email.email_id,
+        email.subject,
+        "ip",
+        prob,
+        labels=labels
+    )
     return {
         "labels": labels,
         "filter": "ip",
-        "confidence_ip": round(prob, 2)
+        "confidence_ip": round(prob, 2),
+        "client_code": client_code,
     }
 
 
