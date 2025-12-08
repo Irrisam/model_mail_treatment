@@ -22,18 +22,9 @@ CLIENT_CODE_PATTERN = re.compile(r"\b[A-Z]{2}\.[A-Z]{2,32}\.\d{3}\b")
 
 
 def extract_client_code(text: str) -> str | None:
-    """
-    Extrait un code client du type BT.ZIZILETI.001 depuis le texte.
-    - 2 lettres
-    - un point
-    - 2 à 32 lettres
-    - un point
-    - 3 chiffres
-    """
     if not text:
         return None
 
-    # On met en majuscules pour tolérer bt.zizileti.001
     text = text.upper()
     m = CLIENT_CODE_PATTERN.search(text)
     return m.group(0) if m else None

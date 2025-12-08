@@ -15,7 +15,7 @@ not_ip - Hors PI → ignoré
 Installation & Lancement
 
 python3 -m venv .venv
-source .venv/bin/activate  # (sur Windows: .venv\Scripts\activate)
+source .venv/bin/activate
 pip install -r requirements.txt
 uvicorn model_service:app --reload --port 8888
 

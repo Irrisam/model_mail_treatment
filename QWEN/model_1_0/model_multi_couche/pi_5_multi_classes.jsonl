@@ -1,0 +1,532 @@
+{"subject": "Instruction dépôt EP", "body": "Merci de lancer le dépôt européen selon les revendications validées.", "label": "Brevets"}
+{"subject": "Validation brevet FR", "body": "Pourriez-vous confirmer la validation nationale avant l'échéance limite ?", "label": "Brevets"}
+{"subject": "Paiement annuité 5", "body": "Nous confirmons le règlement de l'annuité 5, justificatif en pièce jointe.", "label": "Brevets"}
+{"subject": "Réponse notification OEB", "body": "Merci de préparer une réponse argumentée à la notification reçue hier.", "label": "Brevets"}
+{"subject": "Recherche antériorité", "body": "Pouvez-vous réaliser une étude de brevetabilité sur ce concept ?", "label": "Brevets"}
+{"subject": "Rapport recherche négatif", "body": "Le rapport de recherche contient plusieurs documents X, avis nécessaire.", "label": "Brevets"}
+{"subject": "Dépôt PCT", "body": "Merci de procéder au dépôt PCT avant la date butoir.", "label": "Brevets"}
+{"subject": "EP validation extension", "body": "Veuillez confirmer la liste des pays choisis pour la validation EP.", "label": "Brevets"}
+{"subject": "Révision revendications", "body": "Le client souhaite modifier les revendications 1 à 3.", "label": "Brevets"}
+{"subject": "Traduction fascicule", "body": "Merci de valider la traduction avant transmission à l'OEB.", "label": "Brevets"}
+{"subject": "Limitation brevet", "body": "Nous devons déposer une requête en limitation suite à opposition.", "label": "Brevets"}
+{"subject": "Indépendance revendications", "body": "Merci d'évaluer la conformité des revendications dépendantes.", "label": "Brevets"}
+{"subject": "Délais prorogeables", "body": "Le délai de réponse est prorogeable, merci de confirmer l'extension.", "label": "Brevets"}
+{"subject": "Paiement taxes extension", "body": "Merci de confirmer le règlement des taxes de validation EP.", "label": "Brevets"}
+{"subject": "Examen accéléré", "body": "Merci de lancer la requête PACE auprès de l'OEB.", "label": "Brevets"}
+{"subject": "Changement mandataire", "body": "Merci d'enregistrer le changement auprès de l'OEB.", "label": "Brevets"}
+{"subject": "Documents priorité", "body": "Pourriez-vous transmettre la copie certifiée du document de priorité ?", "label": "Brevets"}
+{"subject": "Entrée phase nationale", "body": "Merci d'entrer en phase nationale aux US et en CN.", "label": "Brevets"}
+{"subject": "Rapport examen", "body": "Le rapport d'examen est disponible, avis requis.", "label": "Brevets"}
+{"subject": "Invention employé", "body": "Le salarié requiert rémunération supplémentaire pour invention brevetable.", "label": "Brevets"}
+{"subject": "Maintien en vigueur", "body": "Merci de confirmer la poursuite de procédure pour ce dossier.", "label": "Brevets"}
+{"subject": "Notification irrégularité", "body": "Régularisation requise des documents de priorité.", "label": "Brevets"}
+{"subject": "Réexamen claims", "body": "Merci d'analyser la position de l'examinateur avant réponse.", "label": "Brevets"}
+{"subject": "Extension délai", "body": "Merci de demander une extension de délai auprès de l'office.", "label": "Brevets"}
+{"subject": "Transmission annuités", "body": "Le client mandate l'étude pour toutes les annuités à venir.", "label": "Brevets"}
+{"subject": "Rectification erreurs", "body": "Une erreur de désignation doit être corrigée rapidement.", "label": "Brevets"}
+{"subject": "Opposition possible", "body": "Brevet tiers publié, recommandation sur opposition souhaitée.", "label": "Brevets"}
+{"subject": "Atteinte nouveauté", "body": "Une antériorité impacte la nouveauté, avis urgent.", "label": "Brevets"}
+{"subject": "Unité invention", "body": "Merci d'évaluer la non-unité soulevée par l'examinateur.", "label": "Brevets"}
+{"subject": "Requête divisionnaire", "body": "Merci de lancer une divisionnaire avant expiration du délai.", "label": "Brevets"}
+{"subject": "Avis oral", "body": "Préparation requise pour la procédure orale EP.", "label": "Brevets"}
+{"subject": "Maintenance PCT", "body": "Merci de confirmer les pays retenus avant l'entrée en phase nationale.", "label": "Brevets"}
+{"subject": "Traductions extension EP", "body": "Merci d'envoyer les traductions avant échéance.", "label": "Brevets"}
+{"subject": "Rédaction revendications", "body": "Nouvelles revendications proposées en pièce jointe.", "label": "Brevets"}
+{"subject": "Demande prioritaire", "body": "Le dépôt prioritaire FR est maintenant disponible.", "label": "Brevets"}
+{"subject": "Changement titulaire", "body": "Merci d'enregistrer le transfert au registre EP.", "label": "Brevets"}
+{"subject": "Paiement taxe examen", "body": "Merci de procéder au paiement de la taxe d'examen.", "label": "Brevets"}
+{"subject": "Surveillance brevets", "body": "Vidéo et document OEB reçus, analyse requise.", "label": "Brevets"}
+{"subject": "Contestation rapport", "body": "Merci de formuler observations sur le rapport défavorable.", "label": "Brevets"}
+{"subject": "Confirmation dépôt", "body": "Merci de confirmer la date de dépôt et le numéro de référence.", "label": "Brevets"}
+{"subject": "Validations nationales", "body": "Sélection des pays nécessaire pour poursuite procédure EP.", "label": "Brevets"}
+{"subject": "Examen accéléré OEB", "body": "Proposition de requête accélérée disponible.", "label": "Brevets"}
+{"subject": "Retrait désignation", "body": "Client souhaite retirer certaines désignations pays.", "label": "Brevets"}
+{"subject": "Rejet partiel", "body": "Partie des revendications refusée, modifications requises.", "label": "Brevets"}
+{"subject": "Nouveaux documents cités", "body": "Documents cités par l'examinateur à examiner.", "label": "Brevets"}
+{"subject": "Demande limitation", "body": "Client approuve limitation volontaire.", "label": "Brevets"}
+{"subject": "Non-unité facture", "body": "Office demande taxes additionnelles pour non-unité.", "label": "Brevets"}
+{"subject": "Avis oral OEB", "body": "Date fixée pour oral, préparation requise.", "label": "Brevets"}
+{"subject": "Dépôt rapide", "body": "Merci de procéder au dépôt sans délai.", "label": "Brevets"}
+{"subject": "Transmission OEB", "body": "Documents transmis pour officialisation.", "label": "Brevets"}
+{"subject": "Renouvellement marque française", "body": "Merci de lancer la procédure de renouvellement pour cette marque en classe 35.", "label": "Marques_DM"}
+{"subject": "Dépôt nouvelle marque", "body": "Le client souhaite déposer un nouveau signe verbal pour la France et l'Union européenne.", "label": "Marques_DM"}
+{"subject": "Vérification disponibilité signe", "body": "Pouvez-vous vérifier la disponibilité de ce signe avant dépôt ?", "label": "Marques_DM"}
+{"subject": "Lettre d'observations INPI", "body": "Des objections de forme ont été soulevées, analyse requise.", "label": "Marques_DM"}
+{"subject": "Rédaction libellé", "body": "Merci de proposer un libellé adapté pour les classes 9 et 42.", "label": "Marques_DM"}
+{"subject": "Surveillance marque", "body": "Une nouvelle demande similaire a été publiée, avis souhaité.", "label": "Marques_DM"}
+{"subject": "Demande d'enregistrement EUIPO", "body": "Pourriez-vous préparer un dépôt de marque de l'Union européenne ?", "label": "Marques_DM"}
+{"subject": "Opposabilité marque antérieure", "body": "Merci d'évaluer la force de la marque antérieure citée.", "label": "Marques_DM"}
+{"subject": "Changement de titulaire marque", "body": "Merci de procéder à l'enregistrement du transfert au registre INPI.", "label": "Marques_DM"}
+{"subject": "Limitation du libellé", "body": "Le client souhaite réduire la liste de produits et services.", "label": "Marques_DM"}
+{"subject": "Non-renouvellement marque", "body": "Le client confirme qu'il ne souhaite pas renouveler cette marque.", "label": "Marques_DM"}
+{"subject": "Usage sérieux marque", "body": "Merci de rassembler des preuves d'usage pour cette marque.", "label": "Marques_DM"}
+{"subject": "Demande de preuve d'usage", "body": "Un tiers réclame des preuves d'exploitation, analyse requise.", "label": "Marques_DM"}
+{"subject": "Lettre refus partiel marque", "body": "L'office a refusé certaines classes, merci de proposer une réponse.", "label": "Marques_DM"}
+{"subject": "Consentement à dépôt", "body": "Le client envisage d'accorder un accord de coexistence.", "label": "Marques_DM"}
+{"subject": "Licence de marque", "body": "Merci de préparer un projet de contrat de licence.", "label": "Marques_DM"}
+{"subject": "Radiation marque", "body": "Nous devons demander la radiation d'un enregistrement obsolète.", "label": "Marques_DM"}
+{"subject": "Inscription gage sur marque", "body": "Merci de vérifier les formalités d'inscription d'un gage.", "label": "Marques_DM"}
+{"subject": "Saisie contrefaçon douanière", "body": "Les douanes ont retenu des produits marqués, avis nécessaire.", "label": "Marques_DM"}
+{"subject": "Homonymie de signes", "body": "Deux signes proches coexistent, analyse du risque de confusion.", "label": "Marques_DM"}
+{"subject": "Réclamation de tiers", "body": "Un courrier de mise en demeure a été reçu concernant notre marque.", "label": "Marques_DM"}
+{"subject": "Acquisition marque étrangère", "body": "Le client rachète un portefeuille de marques, vérification requise.", "label": "Marques_DM"}
+{"subject": "Alignement classes internationales", "body": "Merci de vérifier la cohérence des classes entre pays.", "label": "Marques_DM"}
+{"subject": "Conversion marque UE en nationales", "body": "Merci d'étudier la conversion en marques nationales.", "label": "Marques_DM"}
+{"subject": "Renonciation partielle", "body": "Le client veut renoncer à certaines classes uniquement.", "label": "Marques_DM"}
+{"subject": "Changement d'adresse titulaire", "body": "Merci de mettre à jour les coordonnées du titulaire.", "label": "Marques_DM"}
+{"subject": "Pré-diagnostic signe", "body": "Merci de donner un avis synthétique sur la distinctivité.", "label": "Marques_DM"}
+{"subject": "Surclassement produits", "body": "La classification de certains produits doit être ajustée.", "label": "Marques_DM"}
+{"subject": "Réponse projet refus", "body": "Le projet de refus mentionne un risque de confusion, avis souhaité.", "label": "Marques_DM"}
+{"subject": "Renouvellement international Madrid", "body": "Merci de gérer le renouvellement via le système de Madrid.", "label": "Marques_DM"}
+{"subject": "Opposition envisageable", "body": "Publication d'une marque concurrente proche, stratégie à définir.", "label": "Marques_DM"}
+{"subject": "Validité de la marque", "body": "Le signe risque-t-il la déchéance pour défaut d'usage ?", "label": "Marques_DM"}
+{"subject": "Coexistence contractuelle", "body": "Un accord de coexistence est proposé par la partie adverse.", "label": "Marques_DM"}
+{"subject": "Extension territoriale marque", "body": "Le client souhaite étendre la protection dans de nouveaux pays.", "label": "Marques_DM"}
+{"subject": "Vérification classes Nice", "body": "Merci de vérifier la bonne classification selon la classification de Nice.", "label": "Marques_DM"}
+{"subject": "Lettre observation tiers", "body": "Des observations de tiers ont été déposées, quelle stratégie ?", "label": "Marques_DM"}
+{"subject": "Dépôt marque sonore", "body": "Le client souhaite protéger un jingle sonore.", "label": "Marques_DM"}
+{"subject": "Dépôt logo figuratif", "body": "Pouvez-vous préparer un dépôt pour ce nouveau logo ?", "label": "Marques_DM"}
+{"subject": "Portefeuille marques", "body": "Merci de dresser un état à jour du portefeuille.", "label": "Marques_DM"}
+{"subject": "Fusion sociétés et marques", "body": "Merci de vérifier les impacts sur les titulaires des marques.", "label": "Marques_DM"}
+{"subject": "Réclamation usage descriptif", "body": "Un tiers prétend faire un usage purement descriptif de notre signe.", "label": "Marques_DM"}
+{"subject": "Renouvellement urgent", "body": "L'échéance de renouvellement approche dans quelques jours.", "label": "Marques_DM"}
+{"subject": "Modification signe enregistré", "body": "Le client souhaite moderniser légèrement le logo, quelles conséquences ?", "label": "Marques_DM"}
+{"subject": "Restriction liste produits", "body": "Merci de limiter le libellé aux produits effectivement exploités.", "label": "Marques_DM"}
+{"subject": "Dossier marque en standby", "body": "Le client souhaite suspendre les démarches pour le moment.", "label": "Marques_DM"}
+{"subject": "Réexamen classification", "body": "Merci de revoir la classification d'un ancien dépôt.", "label": "Marques_DM"}
+{"subject": "Résiliation licence", "body": "Le licencié souhaite mettre fin au contrat, avis juridique requis.", "label": "Marques_DM"}
+{"subject": "Audit marques", "body": "Nous préparons un audit PI, inventaire des titres nécessaires.", "label": "Marques_DM"}
+{"subject": "Réponse EUIPO", "body": "Un projet de décision a été notifié, observations souhaitées.", "label": "Marques_DM"}
+{"subject": "Utilisation signe proche", "body": "Le client a repéré un signe similaire sur le marché, analyse du risque.", "label": "Marques_DM"}
+{"subject": "Nom de domaine en .fr", "body": "Le client souhaite réserver un nouveau nom de domaine en .fr.", "label": "Noms de domaine et Surveillance"}
+{"subject": "Cybersquatting suspecté", "body": "Un tiers a enregistré un nom proche de la marque, avis requis.", "label": "Noms de domaine et Surveillance"}
+{"subject": "Procédure Syreli", "body": "Merci d'étudier l'opportunité d'une procédure Syreli pour ce domaine.", "label": "Noms de domaine et Surveillance"}
+{"subject": "Procédure UDRP", "body": "Pouvez-vous préparer une plainte UDRP pour ce nom de domaine ?", "label": "Noms de domaine et Surveillance"}
+{"subject": "Renouvellement noms de domaine", "body": "Plusieurs noms arrivent à expiration, merci de confirmer le maintien.", "label": "Noms de domaine et Surveillance"}
+{"subject": "Incohérence whois", "body": "Les données whois ne correspondent plus au titulaire réel.", "label": "Noms de domaine et Surveillance"}
+{"subject": "Transfert nom de domaine", "body": "Le client souhaite transférer le domaine vers un autre registrar.", "label": "Noms de domaine et Surveillance"}
+{"subject": "Blocage préventif", "body": "Faut-il réserver des domaines proches pour éviter l'appropriation ?", "label": "Noms de domaine et Surveillance"}
+{"subject": "Nom en .com déjà pris", "body": "Le .com est utilisé par un concurrent, quelles options possibles ?", "label": "Noms de domaine et Surveillance"}
+{"subject": "Médiation registre", "body": "Un contact avec le registre est-il envisageable pour ce litige ?", "label": "Noms de domaine et Surveillance"}
+{"subject": "Nom de domaine offensant", "body": "Un tiers utilise un domaine portant atteinte à la réputation du client.", "label": "Noms de domaine et Surveillance"}
+{"subject": "Redirection trompeuse", "body": "Le domaine litigieux redirige vers un site concurrent.", "label": "Noms de domaine et Surveillance"}
+{"subject": "Dépôt massif domaines", "body": "Le client souhaite une stratégie de réservation large dans plusieurs extensions.", "label": "Noms de domaine et Surveillance"}
+{"subject": "Politique de nommage", "body": "Pouvez-vous proposer une politique interne pour la gestion des noms de domaine ?", "label": "Noms de domaine et Surveillance"}
+{"subject": "Résolution DNS", "body": "Problème technique signalé, vérifier lien avec le titulaire.", "label": "Noms de domaine et Surveillance"}
+{"subject": "Usage de marque dans domaine", "body": "Le domaine reprend intégralement la marque protégée.", "label": "Noms de domaine et Surveillance"}
+{"subject": "Nom de domaine abandonné", "body": "Le client n'utilise plus ce domaine, faut-il le laisser expirer ?", "label": "Noms de domaine et Surveillance"}
+{"subject": "Conflit entre sociétés liées", "body": "Deux entités revendiquent le même nom, arbitrage souhaité.", "label": "Noms de domaine et Surveillance"}
+{"subject": "Vente de nom de domaine", "body": "Un tiers propose de céder un domaine intéressant, analyse du risque.", "label": "Noms de domaine et Surveillance"}
+{"subject": "Plateforme de revente", "body": "Le domaine apparaît sur une plateforme de vente, opportunité à évaluer.", "label": "Noms de domaine et Surveillance"}
+{"subject": "Nom offensif proche de la marque", "body": "Une variante du signe est utilisée pour critiquer la société.", "label": "Noms de domaine et Surveillance"}
+{"subject": "Portfolio noms de domaine", "body": "Merci de dresser la liste des domaines actuellement réservés.", "label": "Noms de domaine et Surveillance"}
+{"subject": "Procédure ADR locale", "body": "Une procédure alternative de résolution de litige est possible dans cette extension.", "label": "Noms de domaine et Surveillance"}
+{"subject": "Hébergement et titularité", "body": "Le client souhaite séparer hébergeur et titulaire juridique.", "label": "Noms de domaine et Surveillance"}
+{"subject": "Expiration accidentelle", "body": "Un domaine stratégique a expiré, quelles options de récupération ?", "label": "Noms de domaine et Surveillance"}
+{"subject": "Usurpation identité domaine", "body": "Des emails frauduleux sont envoyés depuis un domaine similaire.", "label": "Noms de domaine et Surveillance"}
+{"subject": "Surveillance noms similaires", "body": "Pouvez-vous mettre en place une veille sur les nouvelles réservations ?", "label": "Noms de domaine et Surveillance"}
+{"subject": "Nom de domaine géographique", "body": "Le client cible des versions locales du nom, avis requis.", "label": "Noms de domaine et Surveillance"}
+{"subject": "Utilisation de sous-domaines", "body": "Stratégie à définir entre domaines principaux et sous-domaines.", "label": "Noms de domaine et Surveillance"}
+{"subject": "Litige interne IT", "body": "Conflit entre service informatique et juridique sur un domaine.", "label": "Noms de domaine et Surveillance"}
+{"subject": "Nom parodique", "body": "Un site parodique utilise un domaine proche, analyse des risques PI.", "label": "Noms de domaine et Surveillance"}
+{"subject": "Génération automatique domaines", "body": "Le client envisage un outil de génération, encadrement juridique souhaité.", "label": "Noms de domaine et Surveillance"}
+{"subject": "Procédure locale registre", "body": "Le registre propose une procédure spécifique de contestation.", "label": "Noms de domaine et Surveillance"}
+{"subject": "Nom de domaine inactif", "body": "Le domaine n'affiche aucun contenu, mais reste réservé.", "label": "Noms de domaine et Surveillance"}
+{"subject": "Domaine utilisé pour phishing", "body": "Des campagnes de phishing sont menées avec un domaine similaire.", "label": "Noms de domaine et Surveillance"}
+{"subject": "Demande d'identité titulaire", "body": "Le client souhaite identifier le titulaire réel du domaine litigieux.", "label": "Noms de domaine et Surveillance"}
+{"subject": "Contrat de cession domaine", "body": "Merci de préparer un projet de contrat de cession.", "label": "Noms de domaine et Surveillance"}
+{"subject": "Litige multi-domaines", "body": "Plusieurs extensions sont détenues par le même squatteur.", "label": "Noms de domaine et Surveillance"}
+{"subject": "Stratégie défensive", "body": "Faut-il réserver aussi les variantes orthographiques du nom ?", "label": "Noms de domaine et Surveillance"}
+{"subject": "Nom de domaine expiré repris", "body": "Un tiers a repris un ancien domaine de la société.", "label": "Noms de domaine et Surveillance"}
+{"subject": "Politique de redirection", "body": "Le client souhaite harmoniser les redirections entre domaines.", "label": "Noms de domaine et Surveillance"}
+{"subject": "Nom de domaine et franchise", "body": "Les franchisés demandent des domaines dédiés, cadre juridique à définir.", "label": "Noms de domaine et Surveillance"}
+{"subject": "Domaine utilisé par revendeur", "body": "Un revendeur utilise un domaine présentant la marque, contrat à examiner.", "label": "Noms de domaine et Surveillance"}
+{"subject": "Nom en caractères spéciaux", "body": "Un domaine en IDN pose question, quelles implications ?", "label": "Noms de domaine et Surveillance"}
+{"subject": "Domaine parodique sur réseau social", "body": "Un nom de domaine renvoie vers un compte critique.", "label": "Noms de domaine et Surveillance"}
+{"subject": "Blocage préventif registre", "body": "Le registre propose un service de blocage de noms, intérêt à évaluer.", "label": "Noms de domaine et Surveillance"}
+{"subject": "Accord transactionnel domaine", "body": "Le titulaire évoque une cession amiable, stratégie à définir.", "label": "Noms de domaine et Surveillance"}
+{"subject": "Usage interne uniquement", "body": "Un domaine ne sert que pour des adresses email, faut-il le maintenir ?", "label": "Noms de domaine et Surveillance"}
+{"subject": "Nom proche d'un concurrent", "body": "Le client craint un risque de confusion avec une entreprise tierce.", "label": "Noms de domaine et Surveillance"}
+{"subject": "Dépôt dessin communautaire", "body": "Le client souhaite protéger le design d'un nouveau produit au niveau européen.", "label": "Marques_DM"}
+{"subject": "Renouvellement modèle enregistré", "body": "Merci de lancer le renouvellement pour ce modèle qui arrive à échéance.", "label": "Marques_DM"}
+{"subject": "Photographies insuffisantes", "body": "L'office a relevé des lacunes dans les vues fournies.", "label": "Marques_DM"}
+{"subject": "Choix des vues", "body": "Merci de valider les perspectives à déposer pour ce design.", "label": "Marques_DM"}
+{"subject": "Stratégie dépôt multiples", "body": "Le client hésite entre plusieurs variantes, recommandations souhaitées.", "label": "Marques_DM"}
+{"subject": "Nouveauté du modèle", "body": "Une antériorité potentielle a été trouvée, avis sur la nouveauté.", "label": "Marques_DM"}
+{"subject": "Modèle non publié", "body": "Le client souhaite utiliser le différé de publication, confirmation de la stratégie.", "label": "Marques_DM"}
+{"subject": "Extension géographique modèles", "body": "Faut-il protéger ce design dans des pays hors Europe ?", "label": "Marques_DM"}
+{"subject": "Modèle non enregistré", "body": "Le client interroge sur la protection par modèle non enregistré.", "label": "Marques_DM"}
+{"subject": "Atteinte à un modèle", "body": "Un concurrent semble copier l'apparence de notre produit, avis demandé.", "label": "Marques_DM"}
+{"subject": "Choix dessin vs marque 3D", "body": "Devons-nous privilégier un dessin ou une marque tridimensionnelle ?", "label": "Marques_DM"}
+{"subject": "Durée de protection", "body": "Merci de confirmer la durée restante de protection de ce modèle.", "label": "Marques_DM"}
+{"subject": "Combinaison dessins", "body": "Le client veut déposer plusieurs variantes dans une même demande.", "label": "Marques_DM"}
+{"subject": "Revendication de priorité modèle", "body": "Une première demande a été faite à l'étranger, priorités à gérer.", "label": "Marques_DM"}
+{"subject": "Usage d'un ancien modèle", "body": "Le client réutilise un design ancien, risques à vérifier.", "label": "Marques_DM"}
+{"subject": "Cession de modèles", "body": "Merci de préparer un acte de cession pour ce portefeuille de modèles.", "label": "Marques_DM"}
+{"subject": "Contrôle présentation graphique", "body": "Les fichiers fournis respectent-ils les exigences techniques ?", "label": "Marques_DM"}
+{"subject": "Inspiration ou copie", "body": "Un produit concurrent ressemble fortement au nôtre, analyse fine souhaitée.", "label": "Marques_DM"}
+{"subject": "Design partiel", "body": "Peut-on protéger uniquement certaines parties du produit ?", "label": "Marques_DM"}
+{"subject": "Cumul avec droit d'auteur", "body": "Le client demande un avis sur le cumul des protections.", "label": "Marques_DM"}
+{"subject": "Renouvellement multiple modèles", "body": "Plusieurs modèles arrivent à échéance, priorités à identifier.", "label": "Marques_DM"}
+{"subject": "Différé de publication", "body": "Merci de confirmer les délais pour lever le différé.", "label": "Marques_DM"}
+{"subject": "Perte de nouveauté", "body": "Un design a été présenté lors d'un salon, quelles conséquences ?", "label": "Marques_DM"}
+{"subject": "Modèle fonctionnel", "body": "Le design intègre des contraintes techniques, avis sur la protectibilité.", "label": "Marques_DM"}
+{"subject": "Dépôt international La Haye", "body": "Le client envisage un dépôt via le système de La Haye.", "label": "Marques_DM"}
+{"subject": "Litige sur design site web", "body": "Un concurrent reprend la mise en page créée par le client.", "label": "Marques_DM"}
+{"subject": "Design d'emballage", "body": "Protection souhaitée pour un nouveau packaging produit.", "label": "Marques_DM"}
+{"subject": "Design interface utilisateur", "body": "Le client souhaite protéger l'apparence d'une interface logicielle.", "label": "Marques_DM"}
+{"subject": "Coexistence visuelle", "body": "Deux designs proches sont sur le marché, que faire ?", "label": "Marques_DM"}
+{"subject": "Série de modèles", "body": "Stratégie à adopter pour une collection entière.", "label": "Marques_DM"}
+{"subject": "Design saisonnier", "body": "Faut-il réellement déposer un modèle pour un produit saisonnier ?", "label": "Marques_DM"}
+{"subject": "Design non utilisé", "body": "Un modèle a été enregistré mais jamais exploité, quelles conséquences ?", "label": "Marques_DM"}
+{"subject": "Extension d'un ancien modèle", "body": "Le client modernise un design historique, analyse des risques.", "label": "Marques_DM"}
+{"subject": "Preuve de création", "body": "Quels éléments le client doit-il conserver pour prouver la création ?", "label": "Marques_DM"}
+{"subject": "Salaire inventif designer", "body": "Un salarié revendique une rémunération spécifique pour son design.", "label": "Marques_DM"}
+{"subject": "Contrat avec agence design", "body": "Merci de vérifier la clause de cession de droits.", "label": "Marques_DM"}
+{"subject": "Utilisation dans la publicité", "body": "Un visuel représentant le design est massivement diffusé.", "label": "Marques_DM"}
+{"subject": "Reproduction sur des produits dérivés", "body": "La société souhaite décliner le design, faut-il adapter la protection ?", "label": "Marques_DM"}
+{"subject": "Design partiellement modifié", "body": "Le client a apporté de légères modifications, nouveau dépôt nécessaire ?", "label": "Marques_DM"}
+{"subject": "Contestations d'un tiers", "body": "Un concurrent prétend être à l'origine du design.", "label": "Marques_DM"}
+{"subject": "Fin de protection proche", "body": "La dernière période de renouvellement arrive à son terme.", "label": "Marques_DM"}
+{"subject": "Design utilitaire", "body": "Frontière entre protection par modèle et brevet à examiner.", "label": "Marques_DM"}
+{"subject": "Design collaboratif", "body": "Plusieurs créateurs sont intervenus, répartition des droits à définir.", "label": "Marques_DM"}
+{"subject": "Design de mobilier", "body": "Le client lance une nouvelle gamme de meubles, protection souhaitée.", "label": "Marques_DM"}
+{"subject": "Design d'icônes", "body": "Protection demandée pour un ensemble d'icônes graphiques.", "label": "Marques_DM"}
+{"subject": "Design textile", "body": "Une nouvelle collection de motifs est en préparation, stratégie de dépôt.", "label": "Marques_DM"}
+{"subject": "Design de logo stylisé", "body": "Frontière incertaine entre marque figurative et modèle.", "label": "Marques_DM"}
+{"subject": "Design et concurrence déloyale", "body": "Actions cumulées en concurrence déloyale envisagées.", "label": "Marques_DM"}
+{"subject": "Modèle expiré mais exploité", "body": "Le design continue à être utilisé après expiration de la protection.", "label": "Marques_DM"}
+{"subject": "Suspicion de contrefaçon", "body": "Le client a repéré des produits similaires sur un site en ligne.", "label": "Contentieux"}
+{"subject": "Saisie douanière", "body": "Les douanes ont intercepté un lot de produits litigieux.", "label": "Contentieux"}
+{"subject": "Lettre de mise en demeure", "body": "Merci de préparer une mise en demeure pour atteinte aux droits.", "label": "Contentieux"}
+{"subject": "Réponse à mise en demeure reçue", "body": "Un concurrent nous accuse de contrefaçon, réponse à préparer.", "label": "Contentieux"}
+{"subject": "Constat d'huissier", "body": "Un constat a été réalisé en magasin, analyse à faire.", "label": "Contentieux"}
+{"subject": "Preuves de la contrefaçon", "body": "Merci de lister les éléments probants à réunir.", "label": "Contentieux"}
+{"subject": "Plateforme e-commerce", "body": "Des copies sont vendues sur une plateforme, quelles actions possibles ?", "label": "Contentieux"}
+{"subject": "Retrait de contenus en ligne", "body": "Demande de retrait DMCA ou équivalent à préparer.", "label": "Contentieux"}
+{"subject": "Action en référé", "body": "Une mesure d'urgence semble nécessaire, avis sur la stratégie.", "label": "Contentieux"}
+{"subject": "Action au fond", "body": "Faut-il engager une action au fond ou privilégier un accord ?", "label": "Contentieux"}
+{"subject": "Copie de packaging", "body": "L'aspect de l'emballage est repris presque à l'identique.", "label": "Contentieux"}
+{"subject": "Copie de marque sur site", "body": "Le signe protégé apparaît sur un site non autorisé.", "label": "Contentieux"}
+{"subject": "Copie de logo sur réseaux sociaux", "body": "Un compte non officiel utilise notre logo.", "label": "Contentieux"}
+{"subject": "Produits importés suspects", "body": "Des produits importés semblent violer les droits du client.", "label": "Contentieux"}
+{"subject": "Utilisation dans la publicité", "body": "Un concurrent utilise un visuel proche dans sa campagne.", "label": "Contentieux"}
+{"subject": "Argumentaire de défense", "body": "Le client souhaite contester une action pour contrefaçon.", "label": "Contentieux"}
+{"subject": "Responsabilité du distributeur", "body": "Le distributeur diffuse des produits imitant les nôtres.", "label": "Contentieux"}
+{"subject": "Contrefaçon sur salon professionnel", "body": "Un stand présente des produits imitatifs, intervention envisagée.", "label": "Contentieux"}
+{"subject": "Cession de stock litigieux", "body": "Que faire des stocks déjà produits et litigieux ?", "label": "Contentieux"}
+{"subject": "Calcul du préjudice", "body": "Merci d'estimer le préjudice économique potentiel.", "label": "Contentieux"}
+{"subject": "Plan de communication", "body": "Le client souhaite communiquer sur cette affaire, risques à évaluer.", "label": "Contentieux"}
+{"subject": "Lettre de cease and desist", "body": "Projet de courrier pour faire cesser l'usage non autorisé.", "label": "Contentieux"}
+{"subject": "Comparaison de produits", "body": "Merci de préparer un tableau comparatif détaillé.", "label": "Contentieux"}
+{"subject": "Intervention douanière renouvelée", "body": "Faut-il prolonger les demandes d'intervention douanière ?", "label": "Contentieux"}
+{"subject": "Transactions amiables", "body": "Une solution amiable est envisagée, projet de protocole requis.", "label": "Contentieux"}
+{"subject": "Multiples contrefacteurs", "body": "Plusieurs vendeurs proposent des produits imités.", "label": "Contentieux"}
+{"subject": "Sites miroir", "body": "Des sites dupliquent nos contenus sous différents domaines.", "label": "Contentieux"}
+{"subject": "Procédure pénale", "body": "Le client s'interroge sur l'opportunité d'une plainte pénale.", "label": "Contentieux"}
+{"subject": "Assurance et contrefaçon", "body": "Les garanties d'assurance couvrent-elles ce type de litige ?", "label": "Contentieux"}
+{"subject": "Reproduction partielle", "body": "Le produit litigieux reproduit seulement certains éléments.", "label": "Contentieux"}
+{"subject": "Tiers de bonne foi", "body": "Le revendeur prétend ignorer l'existence des droits.", "label": "Contentieux"}
+{"subject": "Contrefaçon de logiciel", "body": "Des licences semblent utilisées sans autorisation.", "label": "Contentieux"}
+{"subject": "Copie de design industriel", "body": "L'apparence d'un appareil est reprise, dossier joint.", "label": "Contentieux"}
+{"subject": "Produits vendus sur marketplace", "body": "Des offres non officielles sont listées, quelles démarches ?", "label": "Contentieux"}
+{"subject": "Droit de réponse", "body": "Le client envisage une communication publique en réaction.", "label": "Contentieux"}
+{"subject": "Suivi d'exécution d'ordonnance", "body": "Une décision a été rendue, actions de suivi à prévoir.", "label": "Contentieux"}
+{"subject": "Contrefaçon interne par ancien salarié", "body": "Un ex-collaborateur lance un produit concurrent similaire.", "label": "Contentieux"}
+{"subject": "Produits non conformes à la norme", "body": "Outre la contrefaçon, des non-conformités techniques sont relevées.", "label": "Contentieux"}
+{"subject": "Livraison de copies à l'étranger", "body": "Des marchandises litigieuses sont expédiées hors Europe.", "label": "Contentieux"}
+{"subject": "Mise sous séquestre de produits", "body": "Faut-il demander le séquestre des marchandises saisies ?", "label": "Contentieux"}
+{"subject": "Mise en demeure restée sans réponse", "body": "Aucune réaction du contrefacteur, escalade envisagée.", "label": "Contentieux"}
+{"subject": "Demande d'expertise technique", "body": "Un rapport technique sur les similitudes est souhaité.", "label": "Contentieux"}
+{"subject": "Usage sur réseaux sociaux", "body": "Le logo est repris dans des contenus promotionnels non autorisés.", "label": "Contentieux"}
+{"subject": "Campagne publicitaire parasite", "body": "Un concurrent détourne notre slogan et visuels.", "label": "Contentieux"}
+{"subject": "Limitation des demandes", "body": "Le client souhaite cibler seulement certains responsables.", "label": "Contentieux"}
+{"subject": "Évaluation chances de succès", "body": "Merci d'estimer les chances de succès d'une action.", "label": "Contentieux"}
+{"subject": "Risque de rétorsion", "body": "Le client craint une contre-attaque en contrefaçon.", "label": "Contentieux"}
+{"subject": "Surveillance post-action", "body": "Comment surveiller le respect des engagements pris ?", "label": "Contentieux"}
+{"subject": "Droits connexes", "body": "Des droits d'auteur et de marque sont également en jeu.", "label": "Contentieux"}
+{"subject": "Recevabilité opposition", "body": "L'opposition déposée semble recevable, analyse approfondie demandée.", "label": "Contentieux"}
+{"subject": "Projet d'opposition marque", "body": "Merci de préparer un projet d'opposition avant expiration du délai.", "label": "Contentieux"}
+{"subject": "Argumentaire d'opposition", "body": "Pouvez-vous proposer une structure d'argumentaire pour l'opposition en cours ?", "label": "Contentieux"}
+{"subject": "Réponse à projet de décision", "body": "L'office a émis un projet de rejet de l'opposition, remarques souhaitées.", "label": "Contentieux"}
+{"subject": "Délais de l'opposition", "body": "Merci de confirmer le calendrier de procédure pour ce dossier.", "label": "Contentieux"}
+{"subject": "Opposition EUIPO en cours", "body": "Une opposition a été engagée devant l'EUIPO, état des lieux demandé.", "label": "Contentieux"}
+{"subject": "Opposition INPI reçue", "body": "Une opposition a été formée contre la demande du client.", "label": "Contentieux"}
+{"subject": "Requête extension délai observations", "body": "Faut-il solliciter une prolongation pour déposer les arguments ?", "label": "Contentieux"}
+{"subject": "Accord amiable en opposition", "body": "La partie adverse propose une coexistence, avis stratégique.", "label": "Contentieux"}
+{"subject": "Retrait partiel opposition", "body": "Le client envisage de limiter son action à certaines classes.", "label": "Contentieux"}
+{"subject": "Procédure orale en opposition", "body": "L'office propose une procédure orale, préparation requise.", "label": "Contentieux"}
+{"subject": "Opposition top prioritaire", "body": "Ce dossier est sensible pour le client, traitement prioritaire demandé.", "label": "Contentieux"}
+{"subject": "Analyse de la marque antérieure", "body": "Merci d'évaluer la solidité de la marque invoquée en opposition.", "label": "Contentieux"}
+{"subject": "Opposition partiellement accueillie", "body": "Le projet de décision accueille partiellement l'opposition.", "label": "Contentieux"}
+{"subject": "Voies de recours après opposition", "body": "Quelles options après cette décision défavorable ?", "label": "Contentieux"}
+{"subject": "Opposition multiple", "body": "Plusieurs oppositions ont été formées contre la même demande, harmonisation requise.", "label": "Contentieux"}
+{"subject": "Preuves d'usage en opposition", "body": "L'office exige des preuves d'usage de la marque antérieure.", "label": "Contentieux"}
+{"subject": "Suspension procédure d'opposition", "body": "Une suspension est envisagée le temps de négociations.", "label": "Contentieux"}
+{"subject": "Opposition marque internationale", "body": "Une opposition a été formée dans le cadre d'un enregistrement international.", "label": "Contentieux"}
+{"subject": "Pré-analyse risque opposition", "body": "Le client souhaite une analyse avant dépôt de sa marque.", "label": "Contentieux"}
+{"subject": "Opposition pour atteinte marque notoire", "body": "La marque invoquée bénéficie d'une forte renommée, arguments à renforcer.", "label": "Contentieux"}
+{"subject": "Opposition suite à surveillance", "body": "La veille a détecté une publication litigieuse, opposition envisagée.", "label": "Contentieux"}
+{"subject": "Décision favorable en opposition", "body": "L'office a statué en faveur de notre client, suivi administratif.", "label": "Contentieux"}
+{"subject": "Répartition des frais de procédure", "body": "L'office a statué sur les dépens, analyse à communiquer.", "label": "Contentieux"}
+{"subject": "Mise à jour stratégie offensive", "body": "Le client souhaite renforcer sa politique d'opposition.", "label": "Contentieux"}
+{"subject": "Non-contestation d'une opposition", "body": "Faut-il répondre ou laisser l'opposition prospérer par défaut ?", "label": "Contentieux"}
+{"subject": "Opposition sur marque défensive", "body": "Le client a déposé une marque de barrage, oppositions associées.", "label": "Contentieux"}
+{"subject": "Priorisation des oppositions", "body": "Plusieurs dossiers sont en cours, merci de proposer un tri par priorité.", "label": "Contentieux"}
+{"subject": "Opposition partielle réussie", "body": "Certaines classes seulement ont été bloquées.", "label": "Contentieux"}
+{"subject": "Opposition et négociation coexistence", "body": "Parallèlement à la procédure, des discussions sont en cours.", "label": "Contentieux"}
+{"subject": "Opposition fondée sur plusieurs marques", "body": "Plusieurs titres sont invoqués, structuration des arguments requise.", "label": "Contentieux"}
+{"subject": "Opposition et action en nullité", "body": "Faut-il cumuler avec une action en nullité ?", "label": "Contentieux"}
+{"subject": "Retrait de la demande contestée", "body": "La demande adverse a été retirée, impact sur l'opposition.", "label": "Contentieux"}
+{"subject": "Opposition internationale désignée", "body": "Une désignation dans le cadre de Madrid est contestée.", "label": "Contentieux"}
+{"subject": "Opposition tardive", "body": "Le délai est dépassé, existe-t-il une voie alternative ?", "label": "Contentieux"}
+{"subject": "Politique d'opposition globale", "body": "Le client souhaite un cadre général d'intervention sur les dépôts tiers.", "label": "Contentieux"}
+{"subject": "Opposition en classe différente", "body": "Analyse d'un risque de confusion malgré des classes distinctes.", "label": "Contentieux"}
+{"subject": "Opposition exécutée avec succès", "body": "La marque adverse a été refusée suite à notre action.", "label": "Contentieux"}
+{"subject": "Effet d'une opposition sur un contrat", "body": "Un contrat de licence prévoit des conséquences en cas d'opposition, avis requis.", "label": "Contentieux"}
+{"subject": "Opposition et marque semi-figurative", "body": "Faut-il restreindre l'argumentaire à l'élément verbal ?", "label": "Contentieux"}
+{"subject": "Opposition liée à une marque faible", "body": "Le caractère faiblement distinctif peut-il fragiliser l'opposition ?", "label": "Contentieux"}
+{"subject": "Opposition groupe de sociétés", "body": "Plusieurs sociétés du groupe sont concernées, coordination à prévoir.", "label": "Contentieux"}
+{"subject": "Décision partielle, appel envisagé", "body": "Le client hésite à faire appel de la décision d'opposition.", "label": "Contentieux"}
+{"subject": "Opposition sur marque de forme", "body": "Une marque de forme est invoquée dans l'opposition, analyse spécifique.", "label": "Contentieux"}
+{"subject": "Opposition et usage sérieux contesté", "body": "La partie adverse met en cause l'usage de la marque antérieure.", "label": "Contentieux"}
+{"subject": "Opposition et marque de certification", "body": "Spécificités d'une marque de certification en procédure d'opposition.", "label": "Contentieux"}
+{"subject": "Clôture d'opposition après accord", "body": "Les parties se sont entendues, formalités de clôture à gérer.", "label": "Contentieux"}
+{"subject": "Opposition en parallèle dans plusieurs pays", "body": "Stratégie coordonnée nécessaire au niveau international.", "label": "Contentieux"}
+{"subject": "Facturation dossier opposition", "body": "Merci de confirmer les étapes facturables dans ce dossier.", "label": "Contentieux"}
+{"subject": "Litige PI complexe", "body": "Plusieurs droits sont en jeu, merci de proposer une stratégie globale.", "label": "Contentieux"}
+{"subject": "Mise en demeure pour usage non autorisé", "body": "Le client souhaite engager une action ciblée.", "label": "Contentieux"}
+{"subject": "Négociation transactionnelle", "body": "Les parties envisagent un protocole d'accord, projet à établir.", "label": "Contentieux"}
+{"subject": "Assignation reçue", "body": "Le client vient de recevoir une assignation, analyse urgente.", "label": "Contentieux"}
+{"subject": "Expertise judiciaire", "body": "Une expertise technique est ordonnée, coordination nécessaire.", "label": "Contentieux"}
+{"subject": "Mesures conservatoires", "body": "Faut-il solliciter des mesures conservatoires avant l'audience ?", "label": "Contentieux"}
+{"subject": "Intégration du service juridique interne", "body": "Le client souhaite impliquer davantage son équipe interne.", "label": "Contentieux"}
+{"subject": "Litige transfrontalier", "body": "Des procédures sont en cours dans plusieurs pays.", "label": "Contentieux"}
+{"subject": "Forum le plus favorable", "body": "Merci d'indiquer la juridiction la plus adaptée.", "label": "Contentieux"}
+{"subject": "Clause de juridiction", "body": "Un contrat prévoit une clause de compétence spécifique, interprétation demandée.", "label": "Contentieux"}
+{"subject": "Tentative de médiation", "body": "Une médiation est proposée par la partie adverse, avis requis.", "label": "Contentieux"}
+{"subject": "Litige PI et concurrence déloyale", "body": "Des actes de concurrence déloyale sont également invoqués.", "label": "Contentieux"}
+{"subject": "Répartition frais de justice", "body": "Le client souhaite une estimation des coûts globaux du litige.", "label": "Contentieux"}
+{"subject": "Impact d'une décision étrangère", "body": "Une décision a été rendue à l'étranger, conséquences en France ?", "label": "Contentieux"}
+{"subject": "Mesures de communication publique", "body": "Le client envisage une communication autour du litige, encadrement souhaité.", "label": "Contentieux"}
+{"subject": "Incident de procédure", "body": "Une difficulté procédurale est survenue à l'audience.", "label": "Contentieux"}
+{"subject": "Stratégie d'appel", "body": "Faut-il interjeter appel de cette décision partiellement défavorable ?", "label": "Contentieux"}
+{"subject": "Gestion d'un contentieux en série", "body": "Plusieurs procédures similaires sont engagées, rationalisation demandée.", "label": "Contentieux"}
+{"subject": "Confidentialité des pièces", "body": "Certaines pièces sont sensibles, mesures de confidentialité envisagées.", "label": "Contentieux"}
+{"subject": "Calcul de redevances impayées", "body": "Des redevances liées à un contrat de licence sont contestées.", "label": "Contentieux"}
+{"subject": "Suspension d'instance", "body": "Une autre procédure pourrait influer sur le litige actuel.", "label": "Contentieux"}
+{"subject": "Provision sur litige", "body": "Le client doit comptabiliser une provision, estimation demandée.", "label": "Contentieux"}
+{"subject": "Gestion des délais procéduraux", "body": "Merci de récapituler les prochaines échéances.", "label": "Contentieux"}
+{"subject": "Multiplicité de parties", "body": "Plusieurs intervenants sont impliqués dans l'affaire.", "label": "Contentieux"}
+{"subject": "Conférence téléphonique avec le juge", "body": "Une réunion de mise en état est programmée, préparation nécessaire.", "label": "Contentieux"}
+{"subject": "Dossier ancien réactivé", "body": "Un litige PI clôturé pourrait être rouvert, analyse des risques.", "label": "Contentieux"}
+{"subject": "Responsabilité de l'ancien conseil", "body": "Le client évoque une possible faute d'un précédent conseil.", "label": "Contentieux"}
+{"subject": "Bilan procédure en cours", "body": "Le client souhaite un état des lieux actualisé du contentieux.", "label": "Contentieux"}
+{"subject": "Stratégie transaction vs action", "body": "Hésitation entre poursuivre l'action ou privilégier un accord.", "label": "Contentieux"}
+{"subject": "Gestion de la preuve électronique", "body": "Plusieurs preuves sont issues de plateformes en ligne.", "label": "Contentieux"}
+{"subject": "Litige marque + brevet", "body": "Les deux types de droits sont en cause dans la même affaire.", "label": "Contentieux"}
+{"subject": "Clause d'arbitrage", "body": "Un contrat prévoit un arbitrage en matière de PI, application discutée.", "label": "Contentieux"}
+{"subject": "Procédure simplifiée", "body": "Le client souhaite une procédure la plus rapide possible.", "label": "Contentieux"}
+{"subject": "Prescription des actions", "body": "Les délais de prescription sont proches, urgence à agir.", "label": "Contentieux"}
+{"subject": "Accord de confidentialité en litige", "body": "La partie adverse propose un NDA pour échanger des pièces.", "label": "Contentieux"}
+{"subject": "Exécution de la décision", "body": "Comment faire exécuter concrètement la décision rendue ?", "label": "Contentieux"}
+{"subject": "Communication avec les médias", "body": "Le litige attire l'attention, stratégie de communication à définir.", "label": "Contentieux"}
+{"subject": "Litige après rupture de contrat", "body": "La fin d'un contrat de licence génère un différend.", "label": "Contentieux"}
+{"subject": "Gestion des risques réputationnels", "body": "Le client est soucieux de l'impact sur son image.", "label": "Contentieux"}
+{"subject": "Intervention volontaire de tiers", "body": "Une autre société souhaite intervenir dans la procédure.", "label": "Contentieux"}
+{"subject": "Coordination avec le pénal", "body": "Une plainte pénale a aussi été déposée, articulation des procédures.", "label": "Contentieux"}
+{"subject": "Litige avec un licencié", "body": "Le licencié dépasse le cadre des droits concédés.", "label": "Contentieux"}
+{"subject": "Litige avec un distributeur", "body": "Des actes non conformes au contrat sont reprochés au distributeur.", "label": "Contentieux"}
+{"subject": "Évaluation de l'issue probable", "body": "Le client demande un pronostic sur l'issue du litige.", "label": "Contentieux"}
+{"subject": "Gestion de plusieurs juridictions", "body": "Actions parallèles dans différents pays, coordination nécessaire.", "label": "Contentieux"}
+{"subject": "Indemnisation proposée", "body": "La partie adverse propose une somme, avis sur l'acceptation.", "label": "Contentieux"}
+{"subject": "Litige sur une invention de salarié", "body": "Le salarié conteste la rémunération pour une invention exploitée.", "label": "Contentieux"}
+{"subject": "Reconnaissance d'une décision étrangère", "body": "Faut-il faire reconnaître une décision rendue à l'étranger ?", "label": "Contentieux"}
+{"subject": "Communication avec les assureurs", "body": "Le client doit informer son assureur, contenu à valider.", "label": "Contentieux"}
+{"subject": "Extension territoriale EP", "body": "Merci de confirmer les pays dans lesquels étendre la protection EP.", "label": "Extension territoriale"}
+{"subject": "Liste de pays prioritaires", "body": "Le client souhaite un avis sur les pays à privilégier.", "label": "Extension territoriale"}
+{"subject": "Validation nationale après EP", "body": "Les validations nationales doivent être préparées avant échéance.", "label": "Extension territoriale"}
+{"subject": "Extension de marque à l'étranger", "body": "Le client veut protéger sa marque dans de nouveaux marchés.", "label": "Extension territoriale"}
+{"subject": "Stratégie Europe vs hors Europe", "body": "Merci de proposer une approche par zones géographiques.", "label": "Extension territoriale"}
+{"subject": "Budget extension pays", "body": "Une estimation des coûts par pays est demandée.", "label": "Extension territoriale"}
+{"subject": "Extension via Madrid", "body": "Le client envisage une extension via l'enregistrement international.", "label": "Extension territoriale"}
+{"subject": "Ciblage de certains États", "body": "Des pays stratégiques ont été identifiés, priorisation souhaitée.", "label": "Extension territoriale"}
+{"subject": "Entrée en phase nationale PCT", "body": "Merci de confirmer les pays sélectionnés pour l'entrée en phase.", "label": "Extension territoriale"}
+{"subject": "Extension défense de la marque", "body": "Une extension territoriale est envisagée pour bloquer un concurrent.", "label": "Extension territoriale"}
+{"subject": "Impact du Brexit", "body": "Le client s'interroge sur la couverture au Royaume-Uni.", "label": "Extension territoriale"}
+{"subject": "Extension régionale versus nationale", "body": "Faut-il recourir à un système régional ou à des dépôts nationaux ?", "label": "Extension territoriale"}
+{"subject": "Réduction du nombre de pays", "body": "Le client souhaite limiter le périmètre pour des raisons budgétaires.", "label": "Extension territoriale"}
+{"subject": "Adaptation des traductions", "body": "Des traductions sont nécessaires pour certains offices.", "label": "Extension territoriale"}
+{"subject": "Délai pour confirmer les pays", "body": "Merci de rappeler la date limite de décision.", "label": "Extension territoriale"}
+{"subject": "Extension territoriale et fiscalité", "body": "Le client se demande si certains pays sont plus avantageux fiscalement.", "label": "Extension territoriale"}
+{"subject": "Pays à risque de contrefaçon", "body": "Une extension peut-elle limiter les contrefaçons sur ces territoires ?", "label": "Extension territoriale"}
+{"subject": "Extension progressive", "body": "Le client souhaite une extension par étapes, selon les ventes.", "label": "Extension territoriale"}
+{"subject": "Recours à des correspondants locaux", "body": "Merci d'indiquer les correspondants à mobiliser.", "label": "Extension territoriale"}
+{"subject": "Vérification des délais locaux", "body": "Certains pays imposent des délais spécifiques à respecter.", "label": "Extension territoriale"}
+{"subject": "Extension d'une marque figurative", "body": "Le client veut étendre un logo déjà protégé dans l'UE.", "label": "Extension territoriale"}
+{"subject": "Étude de marché et PI", "body": "Lien entre potentiel commercial et stratégie d'extension.", "label": "Extension territoriale"}
+{"subject": "Abandon d'une extension envisagée", "body": "Le client change de stratégie pour certains pays.", "label": "Extension territoriale"}
+{"subject": "Renouvellement après extension", "body": "Impact de l'extension sur les futurs renouvellements.", "label": "Extension territoriale"}
+{"subject": "Extension d'un modèle", "body": "Protection souhaitée du design dans de nouveaux pays.", "label": "Extension territoriale"}
+{"subject": "Extension de licence à d'autres territoires", "body": "Un licencié souhaite étendre sa zone géographique.", "label": "Extension territoriale"}
+{"subject": "Stratégie régionale Afrique", "body": "Avis demandé sur les systèmes OAPI et ARIPO.", "label": "Extension territoriale"}
+{"subject": "Extension et risques politiques", "body": "Certains pays présentent un risque politique, avis sur l'intérêt de déposer.", "label": "Extension territoriale"}
+{"subject": "Répartition des coûts entre partenaires", "body": "Plusieurs sociétés partagent les coûts de l'extension.", "label": "Extension territoriale"}
+{"subject": "Extension d'une marque défensive", "body": "La marque est surtout défensive, intérêt à l'étendre ?", "label": "Extension territoriale"}
+{"subject": "Priorisation sur 5 ans", "body": "Le client planifie ses dépôts sur plusieurs années.", "label": "Extension territoriale"}
+{"subject": "Extension dans un pays à forte contrefaçon", "body": "Le client hésite à déposer dans un pays très risqué.", "label": "Extension territoriale"}
+{"subject": "Couverture dans les pays voisins", "body": "Doit-on couvrir aussi les pays frontaliers ?", "label": "Extension territoriale"}
+{"subject": "Impact de l'extension sur les contrats", "body": "Certains contrats de distribution prévoient des zones délimitées.", "label": "Extension territoriale"}
+{"subject": "Extension et langue de procédure", "body": "Le choix de la langue peut-il impacter les coûts ?", "label": "Extension territoriale"}
+{"subject": "Réduction du périmètre pour économies", "body": "Le client souhaite un compromis entre coût et couverture.", "label": "Extension territoriale"}
+{"subject": "Extension hors d'Europe pour brevet", "body": "Quels pays sont les plus stratégiques pour un brevet donné ?", "label": "Extension territoriale"}
+{"subject": "Couverture en Asie", "body": "Question sur l'intérêt de protéger en Chine, Japon, Corée.", "label": "Extension territoriale"}
+{"subject": "Extension vers l'Amérique latine", "body": "Étude des principaux pays à cibler.", "label": "Extension territoriale"}
+{"subject": "Cohérence entre marques et brevets", "body": "La stratégie d'extension doit-elle être alignée pour tous les titres ?", "label": "Extension territoriale"}
+{"subject": "Extension et budgets limités", "body": "Le client veut un plan d'extension très ciblé.", "label": "Extension territoriale"}
+{"subject": "Extension après succès commercial", "body": "Les ventes progressent fortement, extension à considérer.", "label": "Extension territoriale"}
+{"subject": "Désignation d'un mandataire local", "body": "Certains pays exigent un mandataire local, organisation à prévoir.", "label": "Extension territoriale"}
+{"subject": "Extension d'une marque en classe supplémentaire", "body": "Le client souhaite ajouter des produits dans certains pays.", "label": "Extension territoriale"}
+{"subject": "Abandon de certaines validations", "body": "Le client ne souhaite plus maintenir la protection partout.", "label": "Extension territoriale"}
+{"subject": "Extension progressive sur 3 ans", "body": "Une feuille de route d'extension est demandée.", "label": "Extension territoriale"}
+{"subject": "Pays sous embargo ou sanction", "body": "Peut-on déposer dans des pays sous sanctions ?", "label": "Extension territoriale"}
+{"subject": "Étude coûts-avantages extension", "body": "Merci de fournir un tableau synthétique de l'intérêt par pays.", "label": "Extension territoriale"}
+{"subject": "Alerte surveillance marque", "body": "Une nouvelle demande proche de notre marque a été détectée.", "label": "Noms de domaine et Surveillance"}
+{"subject": "Rapport de veille mensuel", "body": "Merci de trouver ci-joint le rapport de surveillance du mois.", "label": "Noms de domaine et Surveillance"}
+{"subject": "Nouveau dépôt concurrent", "body": "Un concurrent a déposé un signe très proche.", "label": "Noms de domaine et Surveillance"}
+{"subject": "Surveillance noms de domaine", "body": "Un nom de domaine similaire vient d'être enregistré.", "label": "Noms de domaine et Surveillance"}
+{"subject": "Extension périmètre de veille", "body": "Le client souhaite inclure de nouvelles classes dans la surveillance.", "label": "Noms de domaine et Surveillance"}
+{"subject": "Révision critères de recherche", "body": "Les termes surveillés doivent être ajustés.", "label": "Noms de domaine et Surveillance"}
+{"subject": "Alerte sur logo figuratif", "body": "Un élément figuratif proche est apparu dans une base de données.", "label": "Noms de domaine et Surveillance"}
+{"subject": "Surveillance contrefaçons en ligne", "body": "Des annonces suspectes ont été détectées sur plusieurs plateformes.", "label": "Noms de domaine et Surveillance"}
+{"subject": "Nouveau concurrent identifié", "body": "Le rapport de veille met en évidence un nouvel entrant.", "label": "Noms de domaine et Surveillance"}
+{"subject": "Surveillance mots-clés publicité", "body": "Des mots-clés proches sont utilisés dans des annonces.", "label": "Noms de domaine et Surveillance"}
+{"subject": "Paramétrage d'un nouveau service de veille", "body": "Le client souhaite activer un service de surveillance externe.", "label": "Noms de domaine et Surveillance"}
+{"subject": "Anomalies dans la veille actuelle", "body": "Des résultats pertinents semblent manquer, ajustement requis.", "label": "Noms de domaine et Surveillance"}
+{"subject": "Surveillance PI multi-pays", "body": "Le client veut étendre la surveillance à d'autres offices.", "label": "Noms de domaine et Surveillance"}
+{"subject": "Alerte sur dépôt en Asie", "body": "Une demande proche est publiée dans un pays asiatique.", "label": "Noms de domaine et Surveillance"}
+{"subject": "Fréquence des rapports de veille", "body": "Le client hésite entre une fréquence mensuelle ou trimestrielle.", "label": "Noms de domaine et Surveillance"}
+{"subject": "Surveillance presse et réseaux sociaux", "body": "Des mentions de la marque sont apparues dans des articles.", "label": "Noms de domaine et Surveillance"}
+{"subject": "Alerte sur design similaire", "body": "Un design proche a été repéré dans une base spécialisée.", "label": "Noms de domaine et Surveillance"}
+{"subject": "Réglage du niveau de sensibilité", "body": "Trop de faux positifs sont remontés, filtrage souhaité.", "label": "Noms de domaine et Surveillance"}
+{"subject": "Rapport de surveillance critique", "body": "Le dernier rapport comprend plusieurs cas potentiellement litigieux.", "label": "Noms de domaine et Surveillance"}
+{"subject": "Veille sur une nouvelle marque", "body": "Le client vient de déposer une nouvelle marque, surveillance à mettre en place.", "label": "Noms de domaine et Surveillance"}
+{"subject": "Détection d'usage suspect", "body": "Un signe proche est utilisé dans un secteur adjacent.", "label": "Noms de domaine et Surveillance"}
+{"subject": "Surveillance globale portefeuille", "body": "Le client souhaite une veille sur l'ensemble de ses titres.", "label": "Noms de domaine et Surveillance"}
+{"subject": "Surveillance post-transaction", "body": "Après rachat, le portefeuille doit continuer à être surveillé.", "label": "Noms de domaine et Surveillance"}
+{"subject": "Surveillance ciblée sur un pays", "body": "Un seul pays présente un risque accru, veille ciblée.", "label": "Noms de domaine et Surveillance"}
+{"subject": "Interprétation du rapport de veille", "body": "Le client souhaite une synthèse des risques identifiés.", "label": "Noms de domaine et Surveillance"}
+{"subject": "Ajustement liste de marques surveillées", "body": "Certaines marques ne sont plus exploitées, mise à jour requise.", "label": "Noms de domaine et Surveillance"}
+{"subject": "Surveillance des concurrents majeurs", "body": "Le client veut un focus sur deux concurrents principaux.", "label": "Noms de domaine et Surveillance"}
+{"subject": "Surveillance des dépôts défensifs", "body": "Certains dépôts de barrage doivent être vérifiés en continu.", "label": "Noms de domaine et Surveillance"}
+{"subject": "Nouvelle zone géographique", "body": "Le client se développe dans une nouvelle région, veille à activer.", "label": "Noms de domaine et Surveillance"}
+{"subject": "Surveillance après litige", "body": "Une attention particulière est demandée suite à une affaire récente.", "label": "Noms de domaine et Surveillance"}
+{"subject": "Veille concurrentielle large", "body": "Le client souhaite une veille incluant des tendances sectorielles.", "label": "Noms de domaine et Surveillance"}
+{"subject": "Surveillance des enregistrements internationaux", "body": "Les désignations internationales doivent être suivies régulièrement.", "label": "Noms de domaine et Surveillance"}
+{"subject": "Nouveau prestataire de veille", "body": "Merci d'évaluer les offres de plusieurs prestataires.", "label": "Noms de domaine et Surveillance"}
+{"subject": "Surveillance marques faibles", "body": "Certaines marques peu distinctives nécessitent un suivi particulier.", "label": "Noms de domaine et Surveillance"}
+{"subject": "Surveillance d'une marque en repositionnement", "body": "Le client modifie l'image de marque, veille à adapter.", "label": "Noms de domaine et Surveillance"}
+{"subject": "Alertes trop nombreuses", "body": "Le volume d'alertes devient difficile à traiter, priorisation souhaitée.", "label": "Noms de domaine et Surveillance"}
+{"subject": "Surveillance mots-clés en ligne", "body": "La marque est ciblée dans des campagnes de référencement payant.", "label": "Noms de domaine et Surveillance"}
+{"subject": "Identification d'un risque potentiel", "body": "Un usage repéré pourrait évoluer en litige, suivi renforcé.", "label": "Noms de domaine et Surveillance"}
+{"subject": "Surveillance d'un portefeuille en cession", "body": "Un portefeuille sur le point d'être cédé doit rester surveillé.", "label": "Noms de domaine et Surveillance"}
+{"subject": "Surveillance après changement de logo", "body": "Le client adopte une nouvelle identité visuelle, veille adaptée.", "label": "Noms de domaine et Surveillance"}
+{"subject": "Surveillance confiée au cabinet", "body": "Le client souhaite externaliser entièrement la veille PI.", "label": "Noms de domaine et Surveillance"}
+{"subject": "Analyse mensuelle des alertes", "body": "Merci de préparer un commentaire sur les cas les plus sensibles.", "label": "Noms de domaine et Surveillance"}
+{"subject": "Surveillance design industriel", "body": "Des formes de produits similaires émergent sur le marché.", "label": "Noms de domaine et Surveillance"}
+{"subject": "Ajustement du périmètre de la veille", "body": "Le client veut inclure de nouvelles classes et exclure d'autres.", "label": "Noms de domaine et Surveillance"}
+{"subject": "Alertes en doublon", "body": "Plusieurs alertes semblent se recouper, rationalisation souhaitée.", "label": "Noms de domaine et Surveillance"}
+{"subject": "Surveillance après changement de stratégie PI", "body": "Le client souhaite renforcer la vigilance dans certains domaines.", "label": "Noms de domaine et Surveillance"}
+{"subject": "Veille sur un secteur spécifique", "body": "La surveillance doit cibler un segment de marché précis.", "label": "Noms de domaine et Surveillance"}
+{"subject": "Surveillance en sommeil", "body": "Le client souhaite suspendre temporairement la veille.", "label": "Noms de domaine et Surveillance"}
+{"subject": "Rapport trimestriel renforcé", "body": "Une analyse détaillée des tendances est requise chaque trimestre.", "label": "Noms de domaine et Surveillance"}
+{"subject": "URGENT – retour sur la rédaction du brevet", "body": "Hello,\n\non doit absolument figer la version des revendications d’ici ce soir, le client panique un peu. Tu peux checker la dernière version en PJ et me dire si c’est safe pour le dépôt EP ?\n\nThx !\n", "label": "Brevets"}
+{"subject": "Re: claims trop larges ?", "body": "Je viens de relire rapidement, les revendications 1 et 2 me semblent vraiment agressives. On ne risque pas un rejet frontal à l’OEB ?\n\nSi tu peux me faire un mini retour avant l’envoi au client, top.\n", "label": "Brevets"}
+{"subject": "PCT – on y va ou pas ?", "body": "Bonjour,\n\nle client hésite encore sur le passage en PCT (question budget…).\nOn doit lui proposer un scénario clair : PCT + 3 pays max (US/JP/CN) ou uniquement EP.\n\nPeux-tu me faire un message simple à lui transférer ?\n", "label": "Brevets"}
+{"subject": "FYI – notification OEB un peu sale", "body": "Je t’ai forward la notif de recherche : plein de X et Y partout…\nOn fait quoi ? on tente une réponse argumentée ou on conseille l’abandon de la branche principale ?\n\nTon avis vite stp : le client veut un call cet aprèm.\n", "label": "Brevets"}
+{"subject": "Mini urgence annuités", "body": "Coucou,\n\nje viens de voir qu’on a une annuité qui tombe dans 3 jours sur le dossier moteur hybride. Tu peux confirmer si le client veut maintenir ?\nSinon faut lui envoyer un gros WARNING.\n", "label": "Brevets"}
+{"subject": "EP oral – on y va en full contestation ?", "body": "Salut,\n\npour la procédure orale de la semaine pro, tu te sens de plaider la nouveauté ou on joue plutôt la carte de la limitation volontaire ?\n\nJ’aimerais verrouiller la stratégie ce matin.\n", "label": "Brevets"}
+{"subject": "Dépôt FR en mode rush", "body": "Le client veut absolument un dépôt FR avant le salon de lundi…\nOn prend le draft existant, on nettoie 2–3 trucs et on dépose en l’état ?\n\nPas idéal mais il ne nous laisse pas trop le choix.\n", "label": "Brevets"}
+{"subject": "Question bête sur priorité", "body": "Hello,\n\nla priorité US date de quand déjà ?\nJe ne voudrais pas qu’on soit en limite de délai pour le dépôt EP + PCT combiné…\n\nSi tu peux me renvoyer les dates clés, merci :)\n", "label": "Brevets"}
+{"subject": "Client veut comprendre la non-unité (help)", "body": "Le rapport PCT parle de non-unité, le client ne comprend rien à ce concept.\nTu peux me rédiger 5–6 lignes pédagogiques à lui envoyer, avec éventuellement un schéma de coût si on paie les taxes sup ?\n", "label": "Brevets"}
+{"subject": "Peut-on vraiment limiter comme ça ?", "body": "Sur le dossier capteur médical, est-ce qu’on peut se contenter d’une limitation sur la caractéristique de calibration, ou c’est trop fragile ?\nJ’aimerais lui proposer un truc qui tienne vraiment.\n", "label": "Brevets"}
+{"subject": "Re: nouveau nom de marque (le client part en vrille)", "body": "Le marketing veut déposer \"X-PULSE\" pour TOUT, même pour des services qui n’ont aucun rapport…\nOn peut leur faire un retour soft en expliquant le risque de refus + oppositions ?\n", "label": "Marques_DM"}
+{"subject": "FYI – rapport de recherche marque bien rouge", "body": "La recherche d’antériorités sort 3 grosses marques très proches.\nTu me confirmes qu’on leur déconseille le dépôt en l’état ?\nJe dois faire un call avec eux à 17h.\n", "label": "Marques_DM"}
+{"subject": "URGENT: renouvellement demain", "body": "Hello,\n\nla marque \"SUNBOX\" tombe demain, le client vient juste de répondre \"oui\"…\nOn peut encore renouveler en urgence ou c’est mort ?\n\nDis-moi très vite stp.\n", "label": "Marques_DM"}
+{"subject": "Opposition potentielle contre un voisin un peu trop proche", "body": "On a une publication EUIPO \"SUNBOXX\" en classe 11.\nTu penses que ça vaut une opposition ou trop borderline niveau confusion ?\n", "label": "Marques_DM"}
+{"subject": "Client veut une marque slogan (aïe)", "body": "Ils veulent déposer \"MEILLEUR SERVICE CLIENT\" en marque 😂\nEst-ce qu’on peut décemment accepter ça ou on les recadre direct sur la distinctivité ?\n", "label": "Marques_DM"}
+{"subject": "Libellé beaucoup trop long", "body": "Le libellé qu’ils ont envoyé fait 2 pages A4…\nOn peut proposer une version clean en classes 9/35/42 sans tout exploser ?\n", "label": "Marques_DM"}
+{"subject": "Re: licence marque non signée", "body": "Le licencié utilise déjà la marque alors que la licence n’est même pas signée.\nOn leur dit quoi ? régulariser ASAP ou mettre pause sur l’exploitation ?\n", "label": "Marques_DM"}
+{"subject": "Marque 3D ou dessin ? le client est perdu", "body": "Pour la forme de la bouteille, tu serais plutôt team marque tridimensionnelle ou modèle ?\nIls veulent \"tout\" déposer mais le budget ne suit pas.\n", "label": "Marques_DM"}
+{"subject": "Question usage sérieux", "body": "La marque n’a quasiment pas été exploitée depuis 5 ans.\nOn considère qu’on est en vrai danger de déchéance ou on a assez de traces pour sauver les meubles ?\n", "label": "Marques_DM"}
+{"subject": "Coexistence proposée par l’adverse", "body": "Ils proposent un accord de coexistence avec une limitation de produits.\nÀ chaud, tu signerais ou trop risqué pour le client ?\n", "label": "Marques_DM"}
+{"subject": "Nom de domaine chelou repéré ce matin", "body": "Hello,\n\n\"sunbox-officiel-fr.com\" vient de popper, ce n’est pas à nous.\nLe site est encore vide mais ça sent le coup foireux…\nOn fait quoi ? UDRP, Syreli, simple mise en demeure ?\n", "label": "Noms de domaine et Surveillance"}
+{"subject": "FW: mail client – phishing ?", "body": "Le client nous transfère un mail de phishing envoyé depuis un domaine très proche du sien.\nTu peux me dire si on peut viser le registraire directement ?\n", "label": "Noms de domaine et Surveillance"}
+{"subject": "Nom en .io déjà pris", "body": "Pour la startup, le .io est déjà pris par un projet un peu mort.\nOn tente une négociation d’achat ou on déconseille et on change de naming ?\n", "label": "Noms de domaine et Surveillance"}
+{"subject": "Syreli or not Syreli", "body": "Je regarde le cas .fr litigieux : on est bon pour une Syreli ?\nOu mieux vaut une appro UDRP sur un autre domaine lié ?\n", "label": "Noms de domaine et Surveillance"}
+{"subject": "Nom parodique borderline", "body": "Un site \"sunbox-arnaque.fr\" vient d’apparaître.\nC’est un forum de gens mécontents. On attaque en PI ou plutôt diffamation / autre ?\n", "label": "Noms de domaine et Surveillance"}
+{"subject": "Expiration domaine par erreur…", "body": "Ils ont laissé expirer leur .fr principal (oui, encore...).\nOn tente une récup via le registre ou c’est trop tard ?\n", "label": "Noms de domaine et Surveillance"}
+{"subject": "Question contractuelle hébergeur / titulaire", "body": "Le domaine est au nom de l’agence web et pas du client.\nTu peux me faire 3 lignes de risques + reco pour les forcer à transférer ?\n", "label": "Noms de domaine et Surveillance"}
+{"subject": "Domaine redirigé vers concurrent", "body": "Un nom très proche du nôtre redirige vers un site concurrent.\nOn traite ça comme contrefaçon de marque classique ?\n", "label": "Noms de domaine et Surveillance"}
+{"subject": "Portfolio domaines ingérable", "body": "Ils ont 150 domaines sans stratégie…\nOn pourrait leur proposer un plan de ménage : garder les stratégiques, laisser tomber le reste ?\n", "label": "Noms de domaine et Surveillance"}
+{"subject": "Client veut réserver tous les TLD du monde", "body": "Idée du DG : prendre .fr .com .io .co .xyz .whatever...\nOn peut lui expliquer calmement pourquoi ce n’est pas optimal niveau budget ?\n", "label": "Noms de domaine et Surveillance"}
+{"subject": "Design packaging – le client veut \"vite un dépôt\"", "body": "Le service marketing vient de finaliser un nouveau packaging. Ils l’ont déjà envoyé à l’imprimeur…\nOn peut encore déposer un dessin communautaire sans trop perdre la nouveauté ?\n", "label": "Marques_DM"}
+{"subject": "Re: photos pas terribles pour le modèle", "body": "Les visuels fournis sont en mode smartphone mal cadré.\nOn risque un refus côté office si on dépose comme ça, non ?\n", "label": "Marques_DM"}
+{"subject": "Design UI d’une app – PI ou pas ?", "body": "Ils veulent protéger l’interface d’une appli mobile (écrans, icônes, etc.).\nTu irais plutôt vers modèle ou droit d’auteur + contrat ?\n", "label": "Marques_DM"}
+{"subject": "Client confond logo et dessin", "body": "Ils parlent de \"déposer un modèle\" pour ce qui est clairement un logo.\nOn leur explique la différence marque figurative vs modèle ?\n", "label": "Marques_DM"}
+{"subject": "Copycat meuble repéré sur Insta", "body": "Une autre marque vend un meuble qui ressemble bizarrement au design de notre client.\nOn peut attaquer sur le modèle enregistré + concurrence déloyale ?\n", "label": "Marques_DM"}
+{"subject": "Modification légère d’un ancien design", "body": "Ils ont juste arrondi les angles d’un produit déjà protégé.\nOn fait un nouveau dépôt ou on vit avec l’existant ?\n", "label": "Marques_DM"}
+{"subject": "Design textile saisonnier", "body": "Pour une collection capsule de 3 mois, tu conseillerais quand même un dépôt modèles ou c’est overkill ?\n", "label": "Marques_DM"}
+{"subject": "Designer freelance pas cadré (encore)", "body": "Le design du produit vient d’un freelance, contrat hyper light.\nTu peux checker si la cession des droits est vraiment béton ou pas ?\n", "label": "Marques_DM"}
+{"subject": "Salon la semaine pro – design déjà dévoilé", "body": "Ils ont montré des prototypes sur un salon sans nous le dire.\nOn peut encore sauver la nouveauté via le délai de grâce ?\n", "label": "Marques_DM"}
+{"subject": "Client veut un \"dépôt global\" pour tous ses designs", "body": "Ils imaginent un dépôt unique pour toute la collection, toutes les variations.\nOn peut leur expliquer comment fonctionnent vraiment les dépôts multiples ?\n", "label": "Marques_DM"}
+{"subject": "ALERTE – copies massives sur Amazon", "body": "Le client vient de repérer plein de produits copiés sur Amazon.\nOn part sur une série de takedown + éventuelle action de fond ou tu vois autre chose ?\n", "label": "Contentieux"}
+{"subject": "Re: mise en demeure un peu trop soft", "body": "Le draft de mise en demeure me paraît gentil vu le niveau de copie.\nOn peut muscler un peu le ton sans partir en mode guerre nucléaire ?\n", "label": "Contentieux"}
+{"subject": "Saisie douane – réponse à faire en 24h", "body": "La douane a bloqué un lot de produits potentiellement contrefaisants.\nOn doit répondre très vite, tu valides qu’il s’agit bien d’imitations ?\n", "label": "Contentieux"}
+{"subject": "Client veut tout de suite porter plainte pénale", "body": "Ils sont furax et parlent de \"plainte pénale immédiate\".\nOn leur propose plutôt un combo civil + douane au début ?\n", "label": "Contentieux"}
+{"subject": "Copie de notre app sur le Store", "body": "Une app quasi identique vient d’apparaître sur le store, mêmes écrans, même nom.\nOn vise les stores + contrefaçon + parasitisme ?\n", "label": "Contentieux"}
+{"subject": "Ancien salarié qui lance la même boîte", "body": "Un ex-collab commercialise un produit très proche.\nOn part sur contrefaçon + violation de clause de non-concurrence ?\n", "label": "Contentieux"}
+{"subject": "Sites de dropshipping qui utilisent nos visuels", "body": "Plusieurs boutiques en dropshipping reprennent nos photos.\nOn fait une campagne de notices d'atteinte + éventuelle action groupée ?\n", "label": "Contentieux"}
+{"subject": "Client veut communiquer dans la presse sur la \"contrefaçon\"", "body": "Ils veulent publier un article pour dénoncer la copie.\nTu peux vérifier les risques de diffamation / comm excessive ?\n", "label": "Contentieux"}
+{"subject": "Comparatif produits à mettre en forme", "body": "J’ai fait un tableau brouillon des différences produit par produit.\nTu peux le rendre présentable pour un constat / expertise ?\n", "label": "Contentieux"}
+{"subject": "Mise en demeure restée sans réponse", "body": "Ça fait 3 semaines et toujours zéro réaction en face.\nOn enclenche la phase contentieuse ou tu veux relancer une fois ?\n", "label": "Contentieux"}
+{"subject": "Opposition potentielle, short delay", "body": "On a 3 semaines pour se décider sur une opposition INPI contre une marque proche.\nTu peux jeter un œil au dossier et me dire si ça vaut le coup ?\n", "label": "Contentieux"}
+{"subject": "Re: projet d’oppo trop technique pour le client", "body": "Ton projet d’opposition est nickel juridiquement mais un peu velu.\nOn peut faire une version \"client-friendly\" à mettre dans le mail d’explication ?\n", "label": "Contentieux"}
+{"subject": "Opposition EUIPO – preuves d’usage à fournir", "body": "L’EUIPO nous demande des preuves d’usage sur la marque antérieure.\nOn a assez de factures / pubs ou c’est léger ?\n", "label": "Contentieux"}
+{"subject": "Accord de coexistence en parallèle de l’opposition", "body": "La partie adverse propose un accord pendant qu’on oppose.\nTu vois un risque à suspendre la procédure en attendant ?\n", "label": "Contentieux"}
+{"subject": "Client veut opposer \"par principe\"", "body": "Ils veulent déposer opposition sur tout ce qui ressemble un peu.\nOn peut leur faire un retour sur le risque d’abuser de la procédure ?\n", "label": "Contentieux"}
+{"subject": "Décision partielle en opposition", "body": "On gagne sur certaines classes, on perd sur d’autres.\nOn discute appel ou on s’arrête là ?\n", "label": "Contentieux"}
+{"subject": "Opposition Madrid – pas très clair pour le client", "body": "L’opposition dans le cadre Madrid les perd complètement.\nTu peux me résumer le mécanisme pour que je leur explique au téléphone ?\n", "label": "Contentieux"}
+{"subject": "Observations de tiers vs opposition", "body": "Pour ce cas précis, tu serais plutôt team observations de tiers ou opposition formelle ?\nDélais et coûts très différents.\n", "label": "Contentieux"}
+{"subject": "Opposition sur marque assez faible", "body": "Notre marque antérieure est à moitié descriptive.\nTu penses que l’office va vraiment suivre sur le risque de confusion ?\n", "label": "Contentieux"}
+{"subject": "Opposition + stratégie globale de marque", "body": "On a déjà 3 oppositions en cours contre la même entreprise.\nOn continue la ligne dure ou on ouvre la porte à un accord global ?\n", "label": "Contentieux"}
+{"subject": "Gros litige PI en vue (mix marque + brevet)", "body": "Le client se fait attaquer à la fois sur un brevet et sur une marque.\nOn peut leur proposer une stratégie combinée plutôt que deux contentieux séparés ?\n", "label": "Contentieux"}
+{"subject": "Call client ce soir – besoin d’un argumentaire simple", "body": "Je les ai ce soir en visio.\nTu peux me faire les 3–4 scénarios possibles (transaction, action, abandon) avec avantages / inconvénients en langage non-juriste ?\n", "label": "Contentieux"}
+{"subject": "Assignation reçue ce matin…", "body": "On vient de recevoir une assignation pour usage prétendument illicite de la marque.\nOn a 15 jours pour réagir, tu peux poser les grandes lignes de défense ?\n", "label": "Contentieux"}
+{"subject": "Médiation proposée par le juge", "body": "Le juge suggère une médiation.\nTu vois ça comme une bonne porte de sortie ou un risque de montrer qu’on est faibles ?\n", "label": "Contentieux"}
+{"subject": "Client veut \"se battre jusqu’au bout\"", "body": "Il ne veut même pas entendre parler de transaction.\nOn peut quand même chiffrer sommairement les coûts et risques pour le calmer un peu ?\n", "label": "Contentieux"}
+{"subject": "Coordination avec l’assureur", "body": "L’assurance protection juridique veut un résumé du dossier.\nJe te laisse relire le draft avant envoi ?\n", "label": "Contentieux"}
+{"subject": "Dossier ancien qui ressort des cartons", "body": "Une affaire qu’on pensait enterrée est en train de repartir.\nTu peux vérifier où on en est niveau prescription etc. ?\n", "label": "Contentieux"}
+{"subject": "Mesures d’urgence ou pas ?", "body": "On hésite entre saisir en référé tout de suite ou attendre la procédure au fond.\nTu ferais quoi à la place du client ?\n", "label": "Contentieux"}
+{"subject": "Litige multi-pays, le client se perd", "body": "On a FR, DE et US en parallèle.\nPeux-tu préparer un petit tableau récap des étapes dans chaque pays ?\n", "label": "Contentieux"}
+{"subject": "Communication externe pendant le litige", "body": "Ils veulent mettre un post LinkedIn sur le litige pour \"montrer qu’ils défendent leurs droits\".\nOn leur écrit quoi comme lignes rouges à ne pas dépasser ?\n", "label": "Contentieux"}
+{"subject": "Extension territoriale – le DG veut \"tout le monde\"", "body": "Pour le nouveau brevet, il a dit: \"on prend tous les pays importants\".\nOn lui fait une shortlist raisonnable ou on lui coûte un rein ?\n", "label": "Extension territoriale"}
+{"subject": "Question extension PCT en Asie", "body": "Le client vise surtout KR/JP/CN.\nOn garde ces trois-là uniquement ou tu vois d’autres pays vraiment stratégiques ?\n", "label": "Extension territoriale"}
+{"subject": "Validation EP – choix des pays", "body": "Ils ont coché 8 pays sur le formulaire, ça fait très cher.\nOn pourrait leur proposer un noyau dur (DE/FR/UK/IT) + options ?\n", "label": "Extension territoriale"}
+{"subject": "Extension marque vers Amérique Latine", "body": "Le marketing débarque en LATAM.\nOn fait un pack de dépôts dans 3–4 pays clés ou bien on attend les premiers contrats ?\n", "label": "Extension territoriale"}
+{"subject": "Différence Madrid vs dépôts nationaux", "body": "Ils ne pigent pas la différence entre passer par Madrid ou par chaque office.\nTu peux me faire un petit paragraphe pour le mail récap ?\n", "label": "Extension territoriale"}
+{"subject": "Dilemme budget pour extension", "body": "Le budget PI a déjà explosé sur d’autres projets.\nOn garde quoi comme minimum décent pour cette invention ?\n", "label": "Extension territoriale"}
+{"subject": "Extension post-succès produit", "body": "Le produit cartonne mieux que prévu.\nOn leur suggère une extension tardive dans certains pays encore ouverts ?\n", "label": "Extension territoriale"}
+{"subject": "Client veut \"tester le marché\" avant extension", "body": "Ils demandent si on peut voir les ventes avant de déposer partout.\nOn peut leur expliquer l’impact sur la nouveauté / priorités ?\n", "label": "Extension territoriale"}
+{"subject": "Confusion sur couverture UK post-Brexit", "body": "Le client est persuadé que son titre EU couvre toujours le UK…\nTu peux me faire une phrase claire pour casser le mythe ?\n", "label": "Extension territoriale"}
+{"subject": "Extension marque défensive", "body": "Ils veulent étendre une marque quasi jamais utilisée, juste pour bloquer.\nOn valide ou on tire le frein sur le risque de déchéance future ?\n", "label": "Extension territoriale"}
+{"subject": "Rapport de surveillance un peu chargé ce mois-ci", "body": "On a pas mal d’alertes sur des marques proches.\nTu peux faire un tri rapide: vraiment risqué / à surveiller / on s’en fiche ?\n", "label": "Noms de domaine et Surveillance"}
+{"subject": "Alerte domaine suspect (encore)", "body": "Nouvelle alerte : un domaine très proche vient d’être enregistré.\nÀ ton avis, on agit maintenant ou on observe d’abord le contenu ?\n", "label": "Noms de domaine et Surveillance"}
+{"subject": "Client trouve la veille \"trop bruyante\"", "body": "Ils râlent car ils reçoivent trop d’alertes peu pertinentes.\nOn peut réduire un peu le scope sans rater les cas dangereux ?\n", "label": "Noms de domaine et Surveillance"}
+{"subject": "Surveillance renforcée après litige", "body": "Suite au gros litige, ils veulent qu’on garde un œil sur la partie adverse.\nOn inclut toutes leurs nouvelles marques dans la veille ?\n", "label": "Noms de domaine et Surveillance"}
+{"subject": "Re: rapport trimestriel à vulgariser", "body": "Ton rapport de veille est top mais super dense.\nOn peut faire une version \"executive summary\" pour le COMEX ?\n", "label": "Noms de domaine et Surveillance"}
+{"subject": "Alerte design similaire repéré", "body": "Un design sur un salon en ligne ressemble beaucoup au produit du client.\nÀ classer en \"à suivre\" ou déjà à traiter ?\n", "label": "Noms de domaine et Surveillance"}
+{"subject": "Surveillance réseaux sociaux", "body": "Le marketing signale des comptes qui reprennent leur naming.\nOn les plug dans la veille ou on gère à part ?\n", "label": "Noms de domaine et Surveillance"}
+{"subject": "Changement de périmètre de veille", "body": "Ils abandonnent une ligne de produits, plus besoin de surveiller ces classes.\nOn met à jour les paramètres ?\n", "label": "Noms de domaine et Surveillance"}
+{"subject": "Nouveau marché = nouvelle veille", "body": "Ils s’ouvrent à l’Espagne et au Portugal.\nOn active une surveillance locale pour ces pays ou la veille EU suffit ?\n", "label": "Noms de domaine et Surveillance"}
+{"subject": "Client veut un tableau des \"risques chauds\"", "body": "Ils nous demandent un TOP 5 des cas repérés cette année avec un indicateur de risque.\nOn peut sortir ça à partir des rapports de veille ?\n", "label": "Noms de domaine et Surveillance"}
